@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "estate_title": "Beautiful Single-Family Home with Garden",
+    "segment_name": "Single-family house",
+    "description": "This spacious single-family home is a perfect oasis located in a serene suburban neighborhood. It features 4 bedrooms, 3 bathrooms, a large garden, and modern amenities. The elegant interior design creates a warm and inviting atmosphere, while the abundance of natural light throughout the house adds to its charm. The living room is the heart of the home, offering ample space for relaxation and entertainment. The modern kitchen is equipped with high-end appliances and plenty of storage, making it ideal for cooking and hosting gatherings. The bedrooms are generously sized and offer peaceful retreats for rest and relaxation. Outside, the expansive garden provides a tranquil escape, perfect for outdoor dining, gardening, or simply enjoying the fresh air. With its prime location and luxurious features, this home offers the perfect blend of comfort and sophistication.",
+    "price": "$500,000",
+    "status": "sale",
+    "image": "https://example.com/single_family_house_image.jpg",
+    "area": "3000 sq. ft.",
+    "location": "Suburban area, Serene Neighborhood",
+    "facilities": ["Spacious living room", "Modern kitchen", "Large garden", "Attached garage", "Central heating", "Air conditioning"]
+  },
+  {
+    "id": "2",
+    "estate_title": "Modern Townhouse in Urban Setting",
+    "segment_name": "Townhouse",
+    "description": "Discover urban living at its finest in this contemporary townhouse. Boasting 3 bedrooms, 2.5 bathrooms, and a rooftop terrace, this home offers the perfect blend of style and functionality. The open-concept layout is perfect for modern living, with the kitchen, dining, and living areas seamlessly connected for effortless entertaining. The sleek kitchen features modern appliances and ample counter space, making it a chef's dream. Upstairs, the spacious bedrooms offer plenty of room for relaxation and privacy, while the rooftop terrace provides stunning views of the surrounding cityscape. With its convenient location in the heart of downtown, this townhouse offers easy access to restaurants, shops, and entertainment venues, making it the perfect choice for those seeking a vibrant urban lifestyle.",
+    "price": "$350,000",
+    "status": "sale",
+    "image": "https://example.com/townhouse_image.jpg",
+    "area": "2000 sq. ft.",
+    "location": "Urban area, Downtown",
+    "facilities": ["Rooftop terrace", "Modern kitchen appliances", "Garage", "Walk-in closets", "Fitness center access", "Close to public transportation"]
+  },
+  {
+    "id": "3",
+    "estate_title": "Luxurious Apartment with City Views",
+    "segment_name": "Apartment",
+    "description": "Indulge in luxury living with this stunning apartment offering panoramic city views. Featuring 2 bedrooms, 2 bathrooms, and modern kitchen appliances, this apartment is perfect for those who appreciate the finer things in life. The spacious living area is ideal for entertaining guests or simply relaxing at home, while the bedrooms provide peaceful retreats for rest and rejuvenation. Enjoy access to building amenities such as a swimming pool, fitness center, and 24/7 security for added convenience and peace of mind. With its prime location in the bustling city center, this apartment offers easy access to restaurants, shops, and entertainment options, making it the ultimate urban retreat.",
+    "price": "$2,500/month",
+    "status": "rent",
+    "image": "https://example.com/apartment_image.jpg",
+    "area": "1200 sq. ft.",
+    "location": "Urban area, City Center",
+    "facilities": ["City view balcony", "Swimming pool", "Fitness center", "24/7 security", "Concierge service", "On-site laundry"]
+  },
+  {
+    "id": "4",
+    "estate_title": "Cozy Student Apartment near Campus",
+    "segment_name": "Student Housing",
+    "description": "This cozy apartment is the perfect home away from home for students. Located near campus in the vibrant student district, this apartment offers convenience and comfort. The furnished living space is stylishly designed and includes all the essentials for comfortable living. With shared amenities such as study rooms, a fitness center, and laundry facilities, this apartment complex has everything students need for academic success and personal well-being. High-speed internet access ensures students can stay connected and productive, while the shared kitchen provides a convenient space for preparing meals and socializing with roommates. With its affordable rent and unbeatable location, this student apartment is the ideal choice for those looking to make the most of their college experience.",
+    "price": "$800/month",
+    "status": "rent",
+    "image": "https://example.com/student_housing_image.jpg",
+    "area": "600 sq. ft.",
+    "location": "Near Campus, Student District",
+    "facilities": ["Furnished living space", "Study rooms", "Fitness center", "Shared kitchen", "Laundry facilities", "High-speed internet access"]
+  }
+]
