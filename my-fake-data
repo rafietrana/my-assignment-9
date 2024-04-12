@@ -47,7 +47,6 @@
     "location": "Near Campus, Student District",
     "facilities": ["Furnished living space", "Study rooms", "Fitness center", "Shared kitchen", "Laundry facilities", "High-speed internet access"]
   }
-[
   {
     "id": "5",
     "estate_title": "Charming Cottage with Scenic Views",
@@ -72,6 +71,5 @@
     "location": "Coastal area, Oceanfront",
     "facilities": ["Ocean views", "Private terrace", "Gourmet kitchen", "Master suite", "Building amenities (pool, gym)", "Concierge service"]
   }
-]
 
 ]
