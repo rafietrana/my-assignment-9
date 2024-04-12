@@ -47,29 +47,30 @@
     "location": "Near Campus, Student District",
     "facilities": ["Furnished living space", "Study rooms", "Fitness center", "Shared kitchen", "Laundry facilities", "High-speed internet access"]
   },
-  {
-    "id": "5",
-    "estate_title": "Charming Cottage with Scenic Views",
-    "segment_name": "Cottage",
-    "description": "Escape to the tranquility of this charming cottage nestled amidst picturesque countryside. With 2 bedrooms, 1 bathroom, and breathtaking views of rolling hills, this property offers a serene retreat from the hustle and bustle of city life. The cozy interior features rustic décor and modern amenities, creating a perfect blend of comfort and charm. Relax in the inviting living room with a fireplace, or enjoy al fresco dining on the spacious deck overlooking the lush landscape. The well-appointed kitchen is equipped with everything you need to whip up delicious meals using fresh, local ingredients. Whether you're seeking a weekend getaway or a longer retreat, this cottage provides the idyllic setting for relaxation and rejuvenation.",
-    "price": "$300,000",
-    "status": "sale",
-    "image": "https://i.ibb.co/vcTFNhP/cottage.jpg",
-    "area": "1500 sq. ft.",
-    "location": "Rural area, Countryside",
-    "facilities": ["Scenic views", "Fireplace", "Deck", "Modern kitchen appliances", "Garden area", "Parking space"]
-  },
-  {
-    "id": "6",
-    "estate_title": "Elegant Penthouse with Ocean Views",
-    "segment_name": "Penthouse",
-    "description": "Live in luxury with this elegant penthouse offering breathtaking ocean views. Spanning an entire floor, this spacious residence features 3 bedrooms, 3.5 bathrooms, and a private terrace overlooking the azure waters. The open-concept layout is perfect for entertaining, with a gourmet kitchen, formal dining area, and stylish living room seamlessly connected. Floor-to-ceiling windows bathe the interior in natural light, while high-end finishes and fixtures add to the allure. Retreat to the master suite with its spa-like bathroom and walk-in closet, or unwind on the expansive terrace while enjoying the sea breeze and panoramic vistas. With exclusive access to building amenities such as a pool, gym, and concierge service, this penthouse offers a lifestyle of unparalleled luxury in a prime coastal location.",
-    "price": "$1,800,000",
-    "status": "sale",
-    "image": "https://i.ibb.co/FXsVBMP/penthouse.jpg",
-    "area": "2500 sq. ft.",
-    "location": "Coastal area, Oceanfront",
-    "facilities": ["Ocean views", "Private terrace", "Gourmet kitchen", "Master suite", "Building amenities (pool, gym)", "Concierge service"]
-  }
+{
+  "id": "7",
+  "estate_title": "Tranquil Senior Living Community",
+  "segment_name": "Senior Living Community",
+  "description": "Experience a peaceful and supportive environment in this tranquil senior living community. Designed for active seniors, this community offers comfortable living spaces with accessibility features to ensure convenience and safety. The community amenities include social areas for gatherings and activities, landscaped gardens for relaxation, and on-site medical services for peace of mind. Enjoy the companionship of fellow residents and participate in a variety of events and outings organized by the community staff. With a focus on wellness and community engagement, this senior living community provides the perfect setting for retirees to enjoy their golden years.",
+  "price": "Contact for pricing",
+  "status": "sale",
+  "image": "https://i.ibb.co/WnQX9WG/senior.webp",
+  "area": "Varies",
+  "location": "Senior-friendly neighborhood",
+  "facilities": ["Accessible living spaces", "Social areas", "Landscaped gardens", "On-site medical services", "Community events and outings", "Wellness programs"]
+},
+{
+  "id": "8",
+  "estate_title": "Seaside Vacation Rental Villa",
+  "segment_name": "Vacation Rental",
+  "description": "Escape to a coastal paradise with this exquisite vacation rental villa situated by the sea. Featuring luxurious accommodations and breathtaking ocean views, this villa offers the ultimate retreat for relaxation and rejuvenation. The spacious interior is elegantly furnished and equipped with modern amenities to ensure a comfortable stay. Step outside to the expansive terrace where you can soak up the sun, enjoy al fresco dining, or take a refreshing dip in the private pool overlooking the azure waters. With easy access to nearby beaches, restaurants, and attractions, this vacation rental provides an idyllic setting for creating unforgettable memories with family and friends.",
+  "price": "$600/night",
+  "status": "rent",
+  "image": "https://i.ibb.co/SNy1PTn/pexels-ben-mack-6775268.jpg",
+  "area": "Varies",
+  "location": "Coastal area, Beachfront",
+  "facilities": ["Oceanfront location", "Private pool", "Expansive terrace", "Modern amenities", "Easy beach access", "Nearby attractions"]
+}
+
 
 ]
