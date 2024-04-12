@@ -47,4 +47,31 @@
     "location": "Near Campus, Student District",
     "facilities": ["Furnished living space", "Study rooms", "Fitness center", "Shared kitchen", "Laundry facilities", "High-speed internet access"]
   }
+[
+  {
+    "id": "5",
+    "estate_title": "Charming Cottage with Scenic Views",
+    "segment_name": "Cottage",
+    "description": "Escape to the tranquility of this charming cottage nestled amidst picturesque countryside. With 2 bedrooms, 1 bathroom, and breathtaking views of rolling hills, this property offers a serene retreat from the hustle and bustle of city life. The cozy interior features rustic décor and modern amenities, creating a perfect blend of comfort and charm. Relax in the inviting living room with a fireplace, or enjoy al fresco dining on the spacious deck overlooking the lush landscape. The well-appointed kitchen is equipped with everything you need to whip up delicious meals using fresh, local ingredients. Whether you're seeking a weekend getaway or a longer retreat, this cottage provides the idyllic setting for relaxation and rejuvenation.",
+    "price": "$300,000",
+    "status": "sale",
+    "image": "https://i.ibb.co/vcTFNhP/cottage.jpg",
+    "area": "1500 sq. ft.",
+    "location": "Rural area, Countryside",
+    "facilities": ["Scenic views", "Fireplace", "Deck", "Modern kitchen appliances", "Garden area", "Parking space"]
+  },
+  {
+    "id": "6",
+    "estate_title": "Elegant Penthouse with Ocean Views",
+    "segment_name": "Penthouse",
+    "description": "Live in luxury with this elegant penthouse offering breathtaking ocean views. Spanning an entire floor, this spacious residence features 3 bedrooms, 3.5 bathrooms, and a private terrace overlooking the azure waters. The open-concept layout is perfect for entertaining, with a gourmet kitchen, formal dining area, and stylish living room seamlessly connected. Floor-to-ceiling windows bathe the interior in natural light, while high-end finishes and fixtures add to the allure. Retreat to the master suite with its spa-like bathroom and walk-in closet, or unwind on the expansive terrace while enjoying the sea breeze and panoramic vistas. With exclusive access to building amenities such as a pool, gym, and concierge service, this penthouse offers a lifestyle of unparalleled luxury in a prime coastal location.",
+    "price": "$1,800,000",
+    "status": "sale",
+    "image": "https://i.ibb.co/FXsVBMP/penthouse.jpg",
+    "area": "2500 sq. ft.",
+    "location": "Coastal area, Oceanfront",
+    "facilities": ["Ocean views", "Private terrace", "Gourmet kitchen", "Master suite", "Building amenities (pool, gym)", "Concierge service"]
+  }
+]
+
 ]
