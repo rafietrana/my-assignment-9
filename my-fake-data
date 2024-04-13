@@ -55,7 +55,7 @@
   "price": "Contact for pricing",
   "status": "sale",
   "image": "https://i.ibb.co/WnQX9WG/senior.webp",
-  "area": "Varies",
+  "area": "1900 sq. ft.",
   "location": "Senior-friendly neighborhood",
   "facilities": ["Accessible living spaces", "Social areas", "Landscaped gardens", "On-site medical services", "Community events and outings", "Wellness programs"]
 },
@@ -67,7 +67,7 @@
   "price": "$600/night",
   "status": "rent",
   "image": "https://i.ibb.co/SNy1PTn/pexels-ben-mack-6775268.jpg",
-  "area": "Varies",
+  "area": "2100 sq. ft.",
   "location": "Coastal area, Beachfront",
   "facilities": ["Oceanfront location", "Private pool", "Expansive terrace", "Modern amenities", "Easy beach access", "Nearby attractions"]
 }
